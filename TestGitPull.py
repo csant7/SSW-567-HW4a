@@ -11,6 +11,7 @@ from GitPull import gitHubAPI
 from unittest.mock import patch
 m = Mock()
 
+
 class Object(object):
     def __init__(self, content):
         self.content = content
