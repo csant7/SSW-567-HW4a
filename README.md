@@ -1,2 +1,2 @@
 # SSW-567-HW4a
-[![build status of master](https://travis-ci.org/csant7/SSW-567-HW4a.svg?branch=master)](https://travis-ci.org/csant7/SSW-567-HW4a)
+[![Build Status](https://travis-ci.com/csant7/SSW-567-HW4a.svg?branch=HW5a)](https://travis-ci.com/csant7/SSW-567-HW4a)
